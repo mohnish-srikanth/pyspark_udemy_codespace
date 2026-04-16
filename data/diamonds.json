@@ -1,0 +1,242 @@
+[
+  {
+    "name": "apache-logs.txt",
+    "path": "spark_programming/data/apache-logs.txt",
+    "sha": "974393a2b517e4e44c64bf761581af9152e29031",
+    "size": 2370046,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/apache-logs.txt?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/apache-logs.txt",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/974393a2b517e4e44c64bf761581af9152e29031",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/apache-logs.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/apache-logs.txt?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/974393a2b517e4e44c64bf761581af9152e29031",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/apache-logs.txt"
+    }
+  },
+  {
+    "name": "booking-summary.csv",
+    "path": "spark_programming/data/booking-summary.csv",
+    "sha": "790c5c37deaae9c44b30b672228269c396df2c21",
+    "size": 1285,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/booking-summary.csv?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/booking-summary.csv",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/790c5c37deaae9c44b30b672228269c396df2c21",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/booking-summary.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/booking-summary.csv?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/790c5c37deaae9c44b30b672228269c396df2c21",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/booking-summary.csv"
+    }
+  },
+  {
+    "name": "bookings.csv",
+    "path": "spark_programming/data/bookings.csv",
+    "sha": "cf8edf493200d99c159f48018dad3d68153b6e2a",
+    "size": 162061,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/bookings.csv?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/bookings.csv",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/cf8edf493200d99c159f48018dad3d68153b6e2a",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/bookings.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/bookings.csv?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/cf8edf493200d99c159f48018dad3d68153b6e2a",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/bookings.csv"
+    }
+  },
+  {
+    "name": "diamonds.json",
+    "path": "spark_programming/data/diamonds.json",
+    "sha": "56feefa3c06818bb51b0d0887374c5d2e265d7cf",
+    "size": 4529975,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/diamonds.json?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/diamonds.json",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/56feefa3c06818bb51b0d0887374c5d2e265d7cf",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/diamonds.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/diamonds.json?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/56feefa3c06818bb51b0d0887374c5d2e265d7cf",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/diamonds.json"
+    }
+  },
+  {
+    "name": "facilities.csv",
+    "path": "spark_programming/data/facilities.csv",
+    "sha": "c38e7fe46e00fba1ac9d2b2939e10f6bb15c830c",
+    "size": 340,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/facilities.csv?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/facilities.csv",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/c38e7fe46e00fba1ac9d2b2939e10f6bb15c830c",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/facilities.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/facilities.csv?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/c38e7fe46e00fba1ac9d2b2939e10f6bb15c830c",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/facilities.csv"
+    }
+  },
+  {
+    "name": "flight-time.json",
+    "path": "spark_programming/data/flight-time.json",
+    "sha": "c951da8bbca5777e6a812e7040c249254f002017",
+    "size": 86850442,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/flight-time.json?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/flight-time.json",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/c951da8bbca5777e6a812e7040c249254f002017",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/flight-time.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/flight-time.json?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/c951da8bbca5777e6a812e7040c249254f002017",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/flight-time.json"
+    }
+  },
+  {
+    "name": "invoices.csv",
+    "path": "spark_programming/data/invoices.csv",
+    "sha": "cdd4166ba08769bd5472cda20627e832595e7dfb",
+    "size": 45547667,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/invoices.csv?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/invoices.csv",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/cdd4166ba08769bd5472cda20627e832595e7dfb",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/invoices.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/invoices.csv?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/cdd4166ba08769bd5472cda20627e832595e7dfb",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/invoices.csv"
+    }
+  },
+  {
+    "name": "machine-events-no-tz.csv",
+    "path": "spark_programming/data/machine-events-no-tz.csv",
+    "sha": "9770d3dd1ed52b2b41f6484fbd8c3978c1e94fe5",
+    "size": 368,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/machine-events-no-tz.csv?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/machine-events-no-tz.csv",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/9770d3dd1ed52b2b41f6484fbd8c3978c1e94fe5",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/machine-events-no-tz.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/machine-events-no-tz.csv?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/9770d3dd1ed52b2b41f6484fbd8c3978c1e94fe5",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/machine-events-no-tz.csv"
+    }
+  },
+  {
+    "name": "machine-events-with-tz.csv",
+    "path": "spark_programming/data/machine-events-with-tz.csv",
+    "sha": "acef49fe987c122a325d8db8360e99e227c484bd",
+    "size": 418,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/machine-events-with-tz.csv?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/machine-events-with-tz.csv",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/acef49fe987c122a325d8db8360e99e227c484bd",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/machine-events-with-tz.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/machine-events-with-tz.csv?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/acef49fe987c122a325d8db8360e99e227c484bd",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/machine-events-with-tz.csv"
+    }
+  },
+  {
+    "name": "members.csv",
+    "path": "spark_programming/data/members.csv",
+    "sha": "baff8712088588db6eb694db68880c032db45211",
+    "size": 3126,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/members.csv?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/members.csv",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/baff8712088588db6eb694db68880c032db45211",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/members.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/members.csv?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/baff8712088588db6eb694db68880c032db45211",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/members.csv"
+    }
+  },
+  {
+    "name": "sales_sample.csv",
+    "path": "spark_programming/data/sales_sample.csv",
+    "sha": "4a2c6c4ec8ee18cedbecf336935bda33e1c04f07",
+    "size": 162,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/sales_sample.csv?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/sales_sample.csv",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/4a2c6c4ec8ee18cedbecf336935bda33e1c04f07",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/sales_sample.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/sales_sample.csv?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/4a2c6c4ec8ee18cedbecf336935bda33e1c04f07",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/sales_sample.csv"
+    }
+  },
+  {
+    "name": "sf-fire-calls.csv",
+    "path": "spark_programming/data/sf-fire-calls.csv",
+    "sha": "0f8d69879989419ec70d95536213a9576cf934e2",
+    "size": 44530123,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/sf-fire-calls.csv?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/sf-fire-calls.csv",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/0f8d69879989419ec70d95536213a9576cf934e2",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/sf-fire-calls.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/sf-fire-calls.csv?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/0f8d69879989419ec70d95536213a9576cf934e2",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/sf-fire-calls.csv"
+    }
+  },
+  {
+    "name": "students_offline.csv",
+    "path": "spark_programming/data/students_offline.csv",
+    "sha": "d592e179466c81a6418ec0eea56b6321ffc7e0b5",
+    "size": 1844,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/students_offline.csv?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/students_offline.csv",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/d592e179466c81a6418ec0eea56b6321ffc7e0b5",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/students_offline.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/students_offline.csv?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/d592e179466c81a6418ec0eea56b6321ffc7e0b5",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/students_offline.csv"
+    }
+  },
+  {
+    "name": "students_online.json",
+    "path": "spark_programming/data/students_online.json",
+    "sha": "e6e77611c9a3f4056295114abd97e9db6f0d6a9b",
+    "size": 1850,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/students_online.json?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/students_online.json",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/e6e77611c9a3f4056295114abd97e9db6f0d6a9b",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/students_online.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/students_online.json?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/e6e77611c9a3f4056295114abd97e9db6f0d6a9b",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/students_online.json"
+    }
+  },
+  {
+    "name": "top-3-days-test-data.csv",
+    "path": "spark_programming/data/top-3-days-test-data.csv",
+    "sha": "59b693a35ba31b9c068257bd128e437e8c4991e6",
+    "size": 163,
+    "url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/top-3-days-test-data.csv?ref=main",
+    "html_url": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/top-3-days-test-data.csv",
+    "git_url": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/59b693a35ba31b9c068257bd128e437e8c4991e6",
+    "download_url": "https://raw.githubusercontent.com/LearningJournal/scholarnest_datasets/main/spark_programming/data/top-3-days-test-data.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/contents/spark_programming/data/top-3-days-test-data.csv?ref=main",
+      "git": "https://api.github.com/repos/LearningJournal/scholarnest_datasets/git/blobs/59b693a35ba31b9c068257bd128e437e8c4991e6",
+      "html": "https://github.com/LearningJournal/scholarnest_datasets/blob/main/spark_programming/data/top-3-days-test-data.csv"
+    }
+  }
+]

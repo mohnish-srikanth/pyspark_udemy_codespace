@@ -1,0 +1,10 @@
+{"student_id":1,"name":"Alice","subject":"Math","score":88,"grade":"B","year":2023}
+{"student_id":2,"name":"Bob","subject":"Science","score":92,"grade":"A","year":2023}
+{"student_id":3,"name":"Carol","subject":"Math","score":75,"grade":"C","year":2023}
+{"student_id":4,"name":"Dave","subject":"English","score":95,"grade":"A","year":2023}
+{"student_id":5,"name":"Eve","subject":"Science","score":81,"grade":"B","year":2023}
+{"student_id":6,"name":"Frank","subject":"English","score":67,"grade":"D","year":2023}
+{"student_id":7,"name":"Grace","subject":"Math","score":91,"grade":"A","year":2023}
+{"student_id":8,"name":"Hank","subject":"Science","score":78,"grade":"C","year":2023}
+{"student_id":9,"name":"Ivy","subject":"English","score":85,"grade":"B","year":2023}
+{"student_id":10,"name":"Jack","subject":"Math","score":72,"grade":"C","year":2023}

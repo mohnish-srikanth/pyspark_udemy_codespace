@@ -1,0 +1,10 @@
+{"order_id":1001,"customer":"Alice","product":"Laptop","category":"Electronics","quantity":1,"price":999.99,"status":"delivered","order_date":"2024-01-15"}
+{"order_id":1002,"customer":"Bob","product":"Phone","category":"Electronics","quantity":2,"price":499.99,"status":"shipped","order_date":"2024-01-20"}
+{"order_id":1003,"customer":"Carol","product":"Desk","category":"Furniture","quantity":1,"price":349.99,"status":"delivered","order_date":"2024-02-03"}
+{"order_id":1004,"customer":"Dave","product":"Chair","category":"Furniture","quantity":4,"price":199.99,"status":"pending","order_date":"2024-02-10"}
+{"order_id":1005,"customer":"Eve","product":"Monitor","category":"Electronics","quantity":2,"price":299.99,"status":"delivered","order_date":"2024-02-15"}
+{"order_id":1006,"customer":"Frank","product":"Keyboard","category":"Electronics","quantity":3,"price":79.99,"status":"shipped","order_date":"2024-03-01"}
+{"order_id":1007,"customer":"Grace","product":"Bookshelf","category":"Furniture","quantity":1,"price":149.99,"status":"pending","order_date":"2024-03-05"}
+{"order_id":1008,"customer":"Hank","product":"Laptop","category":"Electronics","quantity":1,"price":999.99,"status":"delivered","order_date":"2024-03-12"}
+{"order_id":1009,"customer":"Ivy","product":"Mouse","category":"Electronics","quantity":5,"price":29.99,"status":"delivered","order_date":"2024-03-20"}
+{"order_id":1010,"customer":"Jack","product":"Sofa","category":"Furniture","quantity":1,"price":799.99,"status":"shipped","order_date":"2024-04-01"}

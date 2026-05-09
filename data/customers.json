@@ -1,0 +1,7 @@
+[
+    {"customer_id": 101, "name": "Alice Chen",   "city": "Seattle",  "tier": "GOLD",     "lifetime_spend": 12500.75, "is_active": true},
+    {"customer_id": 102, "name": "Bob Martinez", "city": "Boston",   "tier": "PLATINUM", "lifetime_spend": 87340.20, "is_active": true},
+    {"customer_id": 103, "name": "Carol Singh",  "city": "Miami",    "tier": "SILVER",   "lifetime_spend":   450.00, "is_active": false},
+    {"customer_id": 104, "name": "Dave Kim",     "city": "Chicago",  "tier": "GOLD",     "lifetime_spend":  9800.50, "is_active": true},
+    {"customer_id": 105, "name": "Eve Patel",    "city": "Seattle",  "tier": "BRONZE",   "lifetime_spend":   125.30, "is_active": true}
+]

@@ -1,0 +1,4 @@
+{"customer_id": 101, "name": "Alice Chen", "address": {"street": "123 Main St", "city": "Seattle", "state": "WA", "zip": "98101"}, "accounts": [{"account_id": "ACC001", "type": "CHECKING", "balance": 5230.50}, {"account_id": "ACC002", "type": "SAVINGS", "balance": 25000.00}]}
+{"customer_id": 102, "name": "Bob Martinez", "address": {"street": "456 Oak Ave", "city": "Boston", "state": "MA", "zip": "02101"}, "accounts": [{"account_id": "ACC003", "type": "CHECKING", "balance": 1500.00}]}
+{"customer_id": 103, "name": "Carol Singh", "address": {"street": "789 Pine Rd", "city": "Miami", "state": "FL", "zip": "33101"}, "accounts": [{"account_id": "ACC004", "type": "CHECKING", "balance": 2300.75}, {"account_id": "ACC005", "type": "SAVINGS", "balance": 45000.00}, {"account_id": "ACC006", "type": "INVESTMENT", "balance": 120000.00}]}
+{"customer_id": 104, "name": "Dave Kim", "address": {"street": "321 Elm Way", "city": "Chicago", "state": "IL", "zip": "60601"}, "accounts": []}

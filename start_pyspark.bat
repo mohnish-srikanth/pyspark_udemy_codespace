@@ -1,4 +1,9 @@
 @echo off
 echo Starting PySpark Docker environment...
-cd D:\pyspark_udemy_codespace
-docker-compose up
+docker run -it --rm ^
+  -p 8888:8888 ^
+  -v D:/pyspark_udemy_codespace:/home/jovyan/work ^
+  --name pyspark-container ^
+  pyspark-hive
+echo Container stopped.
+pause

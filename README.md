@@ -23,3 +23,8 @@ spark = SparkSession.builder \
 spark.sparkContext.setLogLevel("ERROR")
 print("Spark version:", spark.version)
 ```
+
+Master Docker Command:
+```
+
+```

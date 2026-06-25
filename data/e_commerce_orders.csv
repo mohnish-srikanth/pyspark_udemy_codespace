@@ -1,0 +1,11 @@
+order_id,customer_name,product,category,quantity,price,order_date
+1,Alice,Laptop,Electronics,1,75000,2024-01-15
+2,Bob,Mouse,Electronics,2,500,2024-01-16
+3,Charlie,Desk,Furniture,1,8000,2024-01-17
+4,Alice,Keyboard,Electronics,1,1500,2024-02-10
+5,Diana,Chair,Furniture,3,3000,2024-02-12
+6,Bob,Monitor,Electronics,2,12000,2024-02-15
+7,Eve,Sofa,Furniture,1,25000,2024-03-01
+8,Charlie,Laptop,Electronics,1,75000,2024-03-05
+9,Diana,Mouse,Electronics,5,500,2024-03-10
+10,Alice,Table,Furniture,1,10000,2024-03-12

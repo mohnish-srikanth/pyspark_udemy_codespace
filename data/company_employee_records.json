@@ -1,0 +1,14 @@
+[
+    {"emp_id": 1, "name": "Alice", "department": "Engineering",
+     "address": {"city": "Bangalore", "state": "Karnataka", "pin": "560001"},
+     "skills": [{"skill": "Python", "years": 3}, {"skill": "Spark", "years": 2}]},
+    {"emp_id": 2, "name": "Bob", "department": "Marketing",
+     "address": {"city": "Mumbai", "state": "Maharashtra", "pin": "400001"},
+     "skills": [{"skill": "SEO", "years": 4}]},
+    {"emp_id": 3, "name": "Charlie", "department": "Engineering",
+     "address": {"city": "Hyderabad", "state": "Telangana", "pin": "500001"},
+     "skills": [{"skill": "Java", "years": 5}, {"skill": "Kafka", "years": 1}]},
+    {"emp_id": 4, "name": "Diana", "department": "Sales",
+     "address": {"city": "Chennai", "state": "Tamil Nadu", "pin": "600001"},
+     "skills": [{"skill": "Negotiation", "years": 6}]}
+]

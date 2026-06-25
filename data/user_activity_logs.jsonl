@@ -1,0 +1,10 @@
+{"user_id": 101, "action": "login", "timestamp": "2024-01-01T08:00:00", "device": "mobile"}
+{"user_id": 102, "action": "login", "timestamp": "2024-01-01T08:05:00", "device": "desktop"}
+{"user_id": 101, "action": "purchase", "timestamp": "2024-01-01T08:30:00", "device": "mobile", "amount": 500}
+{"user_id": 103, "action": "login", "timestamp": "2024-01-01T09:00:00", "device": "mobile"}
+{"user_id": 101, "action": "logout", "timestamp": "2024-01-01T09:15:00", "device": "mobile"}
+{"user_id": 102, "action": "purchase", "timestamp": "2024-01-01T09:30:00", "device": "desktop", "amount": 1200}
+{"user_id": 103, "action": "purchase", "timestamp": "2024-01-01T09:45:00", "device": "mobile", "amount": 300}
+{"user_id": 102, "action": "logout", "timestamp": "2024-01-01T10:00:00", "device": "desktop"}
+{"user_id": 104, "action": "login", "timestamp": "2024-01-01T10:15:00", "device": "tablet"}
+{"user_id": 104, "action": "purchase", "timestamp": "2024-01-01T10:45:00", "device": "tablet", "amount": 800}

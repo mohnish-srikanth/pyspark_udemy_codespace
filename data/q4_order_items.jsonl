@@ -1,0 +1,5 @@
+{"order_id": 101, "items": ["item_a", "item_b"]}
+{"order_id": 102, "items": ["item_c"]}
+{"order_id": 103, "items": ["item_a", "item_d", "item_e"]}
+{"order_id": 104, "items": []}
+{"order_id": 105, "items": ["item_f", "item_f"]}

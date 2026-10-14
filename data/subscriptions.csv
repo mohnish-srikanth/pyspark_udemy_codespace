@@ -1,0 +1,9 @@
+user_id,day,status
+1,2026-01-01,active
+1,2026-01-02,active
+1,2026-01-03,inactive
+1,2026-01-04,active
+2,2026-01-01,active
+2,2026-01-02,inactive
+2,2026-01-03,active
+2,2026-01-04,active
